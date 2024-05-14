@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Pirates of the caribbean",
+      "posterImg": "https://lhstoday.org/wp-content/uploads/2022/09/The-Pirates-of-the-Caribbean-The-Curse-of-the-Black-Pearl-e1648961317393-900x450.jpg",
+      "releaseYear": 2003,
+      "genre": " Fantasy swashbuckler "
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight",
+      "posterImg": "https://assets.gqindia.com/photos/5cdc19cd54004319c73c4e01/16:9/w_2560%2Cc_limit/Batman-movie.jpg",
+      "releaseYear": 2008,
+      "genre": " Action superhero "
+    },
+    {
+      "id": "3",
+      "title": "Joker",
+      "posterImg": "https://i.pinimg.com/736x/50/79/50/507950ac61555779141caa74c370b7ff.jpg",
+      "releaseYear": 2019,
+      "genre": " Crime, Drama, Thriller"
+    },
+    {
+      "id": "4",
+      "title": "Leon",
+      "posterImg": "https://media.altyazi.net/wp-content/uploads/2020/03/leon.jpg",
+      "releaseYear": 1994,
+      "genre": " Action, Drama"
+    },
+    {
+      "id": "5",
+      "title": "Leon",
+      "posterImg": "https://media.altyazi.net/wp-content/uploads/2020/03/leon.jpg",
+      "releaseYear": 1994,
+      "genre": " Action, Drama"
+    }
+  ]
+}
